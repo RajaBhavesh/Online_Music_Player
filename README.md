@@ -18,8 +18,7 @@ You can see a live demo of the project [here](https://trialsite.freewebhostmost.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/online-music-player.git
-cd online-music-player](https://github.com/RajaBhavesh/Online_Music_Player/tree/main)
+git clone https://github.com/RajaBhavesh/Online_Music_Player/tree/main
 ```
 
 Open `index.html` in your preferred browser to launch the application.
